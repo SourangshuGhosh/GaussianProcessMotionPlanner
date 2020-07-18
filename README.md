@@ -39,7 +39,7 @@ After you install the Matlab toolbox, don't forget to add `/path/install/toolbox
 Tested Compatibility
 -----
 
-The gpmp2 library is designed to be cross-platform. It has been tested on Ubuntu Linux and Windows for now.
+The GaussianProcessMotionPlanner library is designed to be cross-platform. It has been tested on Ubuntu Linux and Windows for now.
 
 - Ubuntu: GCC 4.8 - 4.9, 5.3 - 5.4
 - Windows: Visual C++ 2015 (Matlab toolbox not tested)
@@ -54,4 +54,4 @@ Please use Github issue tracker to report bugs. For other questions please conta
 License
 -----
 
-GPMP2 is released under the MIT license, reproduced in the file LICENSE in this directory.
+GaussianProcessMotionPlanner is released under the MIT license, reproduced in the file LICENSE in this directory.
